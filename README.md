@@ -11,6 +11,5 @@ Aplicación sencilla para registrar el ingreso de vehículos. Proyecto desarroll
 ## Cómo usar
 Solo ejecuta el archivo `main.py`, completa los campos del formulario y presiona "Agregar Vehículo".
 
----
 **Estudiante:** Bryan Mora  
 **Carrera:** Tecnologías de la Información - UEA
